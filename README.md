@@ -21,3 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 MIT
+![resim](https://www.hizliresim.com/bziyxn7)
