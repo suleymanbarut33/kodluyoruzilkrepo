@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 MIT
-![Alex](https://www.hizliresim.com/bziyxn7)
+[![ghTOH.png](https://i.resmim.net/ghTOH.png)](https://resmim.net/i/ghTOH)
